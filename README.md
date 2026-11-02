@@ -10,8 +10,8 @@
 
 | Integrantes | 
 |---|---|---|
-| [Axel Gutierrez] | 
-| [Pablo Garces] | 
+| Axel Gutierrez | 
+| Pablo Garces | 
 
 * **Equipo:** `Equipo_Analizador`
 * **Corte:** Segundo Corte (Evaluación y Mejora de RAG)
